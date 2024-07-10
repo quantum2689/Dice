@@ -8,7 +8,7 @@ have you ever in situation where you need to choose between 2 things this app ca
 
 ## How to get it
 
-**git clone https://github.com/quantum2689/Dice.git**
+```git clone https://github.com/quantum2689/Dice.git```
 
 
 **the apk is in build\app\outputs\apk\flutter-apk\app-release.apk**
